@@ -1,0 +1,33 @@
+{
+  "name": "ee-dark-theme",
+  "displayName": "EE Dark",
+  "description": "A personal blend of dark vibes",
+  "version": "1.0.0",
+	"publisher": "eugeneego",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+	"icon": "images/icon.png",
+  "author" : {
+    "name": "Evgenii Egorov",
+    "email": "eugene.ego@gmail.com",
+    "url": "https://github.com/eugeneego"
+  },
+	"homepage": "https://github.com/eugeneego/vs-code-dark/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/eugeneego/vs-code-dark"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EE Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/color-theme.json"
+      }
+    ]
+  }
+}
