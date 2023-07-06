@@ -4,4 +4,4 @@ A personal blend of dark vibes
 
 ### Screenshot
 
-![Theme Screenshot](https://github.com/eugeneego/vs-code-dark/blob/main/images/screenshot.png)
+![Theme Screenshot](https://github.com/eugeneego/vs-code-dark/blob/main/images/screenshot.png?raw=true)
